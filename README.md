@@ -45,7 +45,7 @@ para testar os conhecimentos adquiridos ao longo da trilha do **ignite**.
 
 - [x] Shopping Cart
 - [x] Reducer e Context API
-- [x] Validação de campos de formulário com [React Hook Form]()
+- [x] Validação de campos de formulário com [React Hook Form](https://react-hook-form.com/)
 
 <br>
 
